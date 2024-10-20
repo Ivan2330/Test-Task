@@ -1,4 +1,7 @@
-"""Here I want to show the option to solve the task through simple functions in Python"""
+"""
+Here I want to show the option to solve the task through simple functions in Python. 
+I my opinion, this is the shortest possible solution
+"""
 
 import json
 
