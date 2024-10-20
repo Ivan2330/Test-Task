@@ -1,4 +1,7 @@
-"""Here I want to show the option to solve the task through an abstract class in Python"""
+"""
+Here I want to show the option to solve the task through an abstract class in Python. 
+I chose that option, because I think that it's the most comfortable way to add and change something in case of need
+"""
 
 import json
 from abc import ABC, abstractmethod
